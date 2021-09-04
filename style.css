@@ -72,6 +72,7 @@ header {
   /* Font size for logo appears to be too large for smaller screens, but was not told to touch it */
   font-size: 72px;
   color: #fff;
+  text-align: center;
 }
 
 header nav ul {
