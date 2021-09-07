@@ -70,7 +70,7 @@ header {
 .logo {
   font-family: "Pangolin", cursive;
   /* Font size for logo appears to be too large for smaller screens, but was not told to touch it */
-  font-size: 72px;
+  font-size: 55px;
   color: #fff;
   text-align: center;
 }
